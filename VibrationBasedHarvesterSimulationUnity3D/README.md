@@ -23,6 +23,6 @@ After you install the editor, open Unity Hub and import the whole project into t
 
 You will see the main page like this (if not,. select the view from `Scene` to `game`:
 
-![unity_main](support\unity_main.png)
+<img src="support/unity_main.png" />
 
 Then you can click the play button on the top center to start playing the simulation.
