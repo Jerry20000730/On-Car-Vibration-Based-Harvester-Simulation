@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:GroupBox style="justify-content: space-between; align-items: auto; flex-direction: row; height: 63px; width: 343px; flex-wrap: nowrap;">
+        <ui:GroupBox style="height: 60px; width: 186px;">
+            <ui:Label text="Current speed:" display-tooltip-when-elided="true" name="speed_indicator" style="width: 89px; color: rgb(255, 255, 255); font-size: 25px;" />
+            <ui:Label text="Power:" display-tooltip-when-elided="true" name="power_indicator" style="width: 88px; height: auto; color: rgb(255, 255, 255); font-size: 25px;" />
+            <ui:Label text="Height: " display-tooltip-when-elided="true" name="height_indicator" style="color: rgb(255, 255, 255); font-size: 25px;" />
+        </ui:GroupBox>
+    </ui:GroupBox>
+</ui:UXML>

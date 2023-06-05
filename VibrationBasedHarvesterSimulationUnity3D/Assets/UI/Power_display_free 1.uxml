@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement>
+        <ui:GroupBox name="information">
+            <ui:Label text="Speed:" display-tooltip-when-elided="true" name="speed_indicator" style="font-size: 27px; color: rgb(255, 255, 255);" />
+            <ui:Label text="Power:" display-tooltip-when-elided="true" name="power_indicator" style="white-space: nowrap; font-size: 27px; color: rgb(255, 255, 255);" />
+            <ui:Label text="Height:" display-tooltip-when-elided="true" name="height_indicator" style="font-size: 27px; color: rgb(255, 255, 255);" />
+            <ui:Label text="TerrainID:" display-tooltip-when-elided="true" name="terrainID_indicator" style="font-size: 27px; color: rgb(255, 255, 255);" />
+        </ui:GroupBox>
+    </ui:VisualElement>
+</ui:UXML>
