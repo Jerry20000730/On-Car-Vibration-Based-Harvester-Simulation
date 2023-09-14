@@ -9,4 +9,4 @@ The project is mainly divided into two parts:
 You can find the README for each module here:
 - [Power Predictor](PowerPredictor/README.md)
 - [Terrain Generation](TerrainGeneration/README.md)
-- [Vibration-based Harvester Simulation](VibrationBasedHarvesterSimulation/README.md)
+- [Vibration-based Harvester Simulation](VibrationBasedHarvesterSimulationUnity3D/README.md)
