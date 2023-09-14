@@ -10,3 +10,7 @@ You can find the README for each module here:
 - [Power Predictor](PowerPredictor/README.md)
 - [Terrain Generation](TerrainGeneration/README.md)
 - [Vibration-based Harvester Simulation](VibrationBasedHarvesterSimulationUnity3D/README.md)
+
+# Portable Version for the simulator
+I have also made a portable simulator (in exe) that can be used as a demo.
+Please download the zip file at [here](https://drive.google.com/file/d/17SGBEdiML36EjU5CZoipUcf_ea4nHyh0/view?usp=drive_link)
