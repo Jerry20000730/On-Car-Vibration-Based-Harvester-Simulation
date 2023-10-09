@@ -17,4 +17,5 @@ Please download the zip file at [here](https://drive.google.com/file/d/17SGBEdiM
 
 # License
 On-Car-Vibration-Based-Harvester-Simulation is licensed under GPLv3.
+
 Copyright © 2023 by Tragic Master.
